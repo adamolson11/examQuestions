@@ -1,0 +1,18 @@
+
+
+
+
+#calculator{
+    box-sizing: border-box;
+    width: 500px; 
+    height: 500px; 
+    background-color: gray;  
+    border: black;
+    border: 10px solid black; /* Set the border width and style */
+    
+
+}
+
+.Buttons {
+    background-color: orangered;
+}
