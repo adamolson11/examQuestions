@@ -21,3 +21,11 @@ document.getElementById('button3').addEventListener('click', function(){
     console.log('Hello world for the third time')
 })
 
+document.getElementById('button4').addEventListener('click', function(){
+    console.log('Hello world for the third time')
+})
+
+//call the function for each button
+
+
+// When I click the button  
